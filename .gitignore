@@ -1,0 +1,4 @@
+*.suo
+*.exe
+*.dll
+project.lock.json
